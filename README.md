@@ -5,4 +5,4 @@ Generate Quotes in a Click and Share them to Twitter. To Get A Live Glimpse Of T
 |:-:|
 | ![Simple slide] |
 
-[Simple slide]: <https://github.com/kazi-mifta/Quotes/blob/master/quotes.PNG>
+[Simple slide]: <https://github.com/kazi-mifta/Quotes/blob/master/quotes.gif>
